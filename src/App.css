@@ -3,6 +3,13 @@ a {
   font-style: oblique;
 }
 
+iframe {
+  width: 90%;
+  aspect-ratio: 1.778;
+  max-height: 315px;
+  max-width: 560px;
+}
+
 .App {
   height: 100vh;
   min-width: 100vw;
@@ -78,4 +85,8 @@ a {
   font-weight: 500;
   font-size: 16px;
   background: #c96161;
+}
+
+.App-footer > span {
+  text-align: center;
 }
