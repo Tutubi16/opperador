@@ -11,9 +11,9 @@ function App() {
 	  </header>
       <main className="App-main">
 		<div className="Content"> 
-			<iframe width="560" height="315" src="https://www.youtube.com/embed/eMdwIhB-XSk?si=TskhdBDC_81P0TAE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/n5RH8FWQgp8?si=kQPaQrb7XhelfC3g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>>
 			<span>
-				Eis que o <a href="https://twitch.tv/opperador">Opper</a> toma um pau pro <a href="https://twitch.tv/tutubi16">Tutu!</a>
+				Eis que o <a href="https://twitch.tv/opperador">Opper</a> perde sua honra ao vivo para o <a href="https://twitch.tv/tutubi16">Tutu!</a>
 
 			</span>
 		</div>
