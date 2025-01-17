@@ -2,4 +2,5 @@
 
 ---
 
-Uma pequena homenagem ao cornopper.
+Uma pequena homenagem ao Opper. --->
+https://twitch.tv/opperador
